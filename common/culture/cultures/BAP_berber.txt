@@ -1,0 +1,79 @@
+﻿haratin = {
+	color = { 0.8 0.4 0.0 }
+	
+	ethos = ethos_communal
+	heritage = heritage_berber #unclear to the degree at which Haratin pops were assimilated but they are native north africans
+	language = language_haratine #now days they speak berber language but unclear when they may have lost their own language
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_family_entrepreneurship  #provide specialist caste workers in west sahara
+		tradition_dryland_dwellers #desert agriculturalists
+		tradition_esteemed_hospitality 
+	}
+	
+	name_list = name_list_butr
+	
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { epe_maghreb_clothing_gfx }
+	unit_gfx = { berber_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = north_african_berber_71
+		2 = north_african_berber_72
+		2 = north_african_berber_73
+		2 = north_african_berber_74
+		2 = north_african_berber_75
+		2 = north_african_berber_76
+		2 = north_african_berber_77
+		2 = north_african_berber_78
+		2 = north_african_berber_79
+		2 = north_african_berber_80
+		2 = north_african_berber_81
+		2 = north_african_berber_82
+		2 = north_african_berber_83
+		2 = north_african_berber_84
+		2 = north_african_berber_85
+	}
+}
+
+tuareg = {
+	color = { 0.66 0.32 0.06 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_berber
+	language = language_berber
+	martial_custom = martial_custom_male_only
+	traditions = {	
+		tradition_desert_ribat #the description is a bit off but the MAA is literally a tuareg unit so...
+		tradition_poetry #poetry and the performance of it is valued form of entertainment 
+		tradition_saharan_nomads #the ogs of the sahara
+		tradition_monogamous #traditionally monogamous
+		tradition_equal_inheritance #traditionally matrilineal sisters son succession but also with women allowed to inherit property
+	}
+	
+	name_list = name_list_tuareg
+	
+	coa_gfx = { berber_group_coa_gfx }
+	building_gfx = { berber_group_building_gfx mena_building_gfx }
+	clothing_gfx = { epe_maghreb_clothing_gfx }
+	unit_gfx = { berber_unit_gfx mena_unit_gfx }
+	
+	ethnicities = {
+		2 = north_african_berber_71
+		2 = north_african_berber_72
+		2 = north_african_berber_73
+		2 = north_african_berber_74
+		2 = north_african_berber_75
+		2 = north_african_berber_76
+		2 = north_african_berber_77
+		2 = north_african_berber_78
+		2 = north_african_berber_79
+		2 = north_african_berber_80
+		2 = north_african_berber_81
+		2 = north_african_berber_82
+		2 = north_african_berber_83
+		2 = north_african_berber_84
+		2 = north_african_berber_85
+	}
+}

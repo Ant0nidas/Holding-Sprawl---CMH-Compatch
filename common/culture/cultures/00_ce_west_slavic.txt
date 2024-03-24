@@ -1,0 +1,469 @@
+﻿sorbian = {
+	color = { 0.6 0.8 0.9 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_west_slavic
+	language = language_sorbian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_xenophilic
+		tradition_hard_working
+		tradition_stalwart_defenders
+	}
+	
+	name_list = name_list_polabian
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+obotrite = {
+	color = { 0.44 0.66 0.7 }
+	
+	ethos = ethos_bureaucratic
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_stalwart_defenders
+		tradition_xenophilic
+		tradition_seafaring
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+dravehnian = {
+	color = { 0.39 0.43 0.65 }
+	
+	parents = {	polabian obotrite }
+	created = 950.1.1
+	ethos = ethos_communal
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_agrarian
+		tradition_xenophilic
+		tradition_culture_blending
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+lutician = {
+	color = { 0.39 0.65 0.9 }
+	
+	parents = {
+		polabian
+	}
+	created = 950.1.1
+	ethos = ethos_stoic
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_stalwart_defenders
+		tradition_castle_keepers
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+ranian = {
+	color = { 0.35 0.55 0.7 }
+	
+	parents = {
+		polabian
+	}
+	created = 920.1.1
+	ethos = ethos_spiritual
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_practiced_pirates
+		tradition_seafaring
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+silesian = {
+	color = { 0.5 0.7 0.9 }
+	
+	ethos = ethos_communal
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_agrarian
+		tradition_stalwart_defenders
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+opolan = {
+	color = { 0.6 0.7 0.9 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_loyal_soldiers
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+golensizi = {
+	color = { 0.4 0.8 0.9 }
+	
+	ethos = ethos_communal
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_xenophilic
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+vistulan = {
+	color = { 0.34 0.64 0.58 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_hill_dwellers
+		tradition_stalwart_defenders
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+lendian = {
+	color = { 0.6 0.9 0.9 }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_city_keepers
+		tradition_agrarian
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+masovian = {
+	color = { 0.36 0.65 0.75 }
+	
+	ethos = ethos_stoic
+	heritage = heritage_west_slavic
+	language = language_lechitic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hussar
+		tradition_forest_folk
+		tradition_modest
+	}
+	
+	name_list = name_list_polish
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { epe_west_slav_clothing_gfx }
+	unit_gfx = { polish_unit_gfx eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}	
+}
+
+nitravan = {
+	color = { 0.44 0.77 0.59 }
+	created = 800.1.1
+	parents = { avar }
+	
+	history_loc_override = nitravan_history_loc
+	
+	ethos = ethos_stoic
+	heritage = heritage_west_slavic
+	language = language_czech_slovak
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountaineer_ruralism
+		tradition_equitable
+		tradition_modest
+	}
+	
+	name_list = name_list_slovien
+	
+	coa_gfx = { polish_coa_gfx west_slavic_group_coa_gfx western_coa_gfx }
+	building_gfx = { czech_building_gfx western_building_gfx }
+	clothing_gfx = { western_clothing_gfx }
+	unit_gfx = { eastern_unit_gfx }
+
+	ethnicities = {
+		10 = european_slavic_blond_1
+		10 = european_slavic_blond_2
+		5 = european_slavic_blond_3
+		5 = european_slavic_blond_4
+		5 = european_slavic_ginger_1
+		5 = european_slavic_ginger_2
+		10 = european_slavic_brown_1
+		10 = european_slavic_brown_2
+		5 = european_slavic_brown_3
+		5 = european_slavic_brown_4
+		5 = european_slavic_dark_1
+		10 = european_slavic_dark_2
+		10 = european_slavic_dark_3
+		5 = european_slavic_dark_4
+	}
+}

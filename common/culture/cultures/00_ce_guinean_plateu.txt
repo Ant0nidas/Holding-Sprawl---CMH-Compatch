@@ -1,0 +1,44 @@
+﻿kibsi = {
+	color = hsv{ 1.58 0.9 4.8 }
+	
+	ethos = ethos_communal
+	heritage = heritage_gur
+	language = language_gur
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hard_working
+		tradition_upland_skirmishing
+		tradition_sacred_groves #earth priests
+	}
+	dlc_tradition = {
+		trait = tradition_staunch_traditionalists
+		requires_dlc_flag = hybridize_culture
+	}
+	
+	name_list = name_list_gur
+	
+	coa_gfx = { west_african_group_coa_gfx }
+	building_gfx = { guinean_building_gfx african_building_gfx mena_building_gfx }
+	clothing_gfx = { african_clothing_gfx }
+	unit_gfx = { sub_sahran_unit_gfx }
+	
+	ethnicities = {
+		5 = west_african_1
+		5 = west_african_2 
+		5 = west_african_3
+		5 = west_african_4
+		5 = west_african_5
+		5 = west_african_6 
+		2 = west_african_senegambian_1
+		2 = west_african_senegambian_2
+		2 = west_african_senegambian_3
+		2 = west_african_senegambian_4
+		2 = west_african_senegambian_5
+		2 = west_african_senegambian_6
+		2 = west_african_senegambian_7
+		2 = west_african_senegambian_8
+		2 = west_african_senegambian_9
+		2 = west_african_senegambian_10
+	}
+}
+

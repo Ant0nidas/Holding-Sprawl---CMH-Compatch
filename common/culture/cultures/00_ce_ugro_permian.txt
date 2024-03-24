@@ -1,0 +1,98 @@
+﻿yeniseian = {
+	color = { 173 245 197 }
+
+	ethos = ethos_spiritual
+	heritage = heritage_siberian
+	language = language_yeniseian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_storytellers
+		tradition_forest_folk
+		tradition_pastoralists
+		tradition_mystical_ancestors
+	}
+
+	name_list = name_list_yeniseian
+
+	coa_gfx = { mongol_coa_gfx steppe_coa_gfx }
+	building_gfx = { siberian_building_gfx steppe_building_gfx }
+	clothing_gfx = { mongol_clothing_gfx }
+	unit_gfx = { mongol_unit_gfx }
+
+	ethnicities = {
+		2 = siberian_siberian_01
+		2 = siberian_siberian_02
+		2 = siberian_siberian_03
+		2 = siberian_siberian_04
+		2 = siberian_siberian_05
+		2 = siberian_siberian_06
+		2 = siberian_siberian_07
+		2 = siberian_siberian_08
+		2 = siberian_siberian_09
+		2 = siberian_siberian_10
+		2 = siberian_siberian_11
+		2 = siberian_siberian_12
+		2 = siberian_siberian_13
+		2 = siberian_siberian_14
+		2 = siberian_siberian_15
+		2 = siberian_siberian_16
+		2 = siberian_siberian_17
+		2 = siberian_siberian_18
+		2 = siberian_siberian_19
+		2 = siberian_siberian_20
+		2 = siberian_siberian_21
+		2 = siberian_siberian_22
+		2 = siberian_siberian_23
+		2 = siberian_siberian_24
+		2 = siberian_siberian_25
+	}
+}
+
+mansi = {
+	color = { 0.345 0.525 0.33 }
+	
+	ethos = ethos_communal
+	heritage = heritage_ugro_permian
+	language = language_mansi
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_forest_folk
+		tradition_isolationist
+		tradition_adaptive_skirmishing
+	}
+	
+	name_list = name_list_khanty
+	
+	coa_gfx = { ugro_permian_group_coa_gfx steppe_coa_gfx }
+	building_gfx = { mokshan_building_gfx steppe_building_gfx }
+	clothing_gfx = { epe_balto_finnic_clothing_gfx }
+	unit_gfx = { circumpolar_unit_gfx northern_unit_gfx }
+	
+	ethnicities = {
+		2 = siberian_siberian_01
+		2 = siberian_siberian_02
+		2 = siberian_siberian_03
+		2 = siberian_siberian_04
+		2 = siberian_siberian_05
+		2 = siberian_siberian_06
+		2 = siberian_siberian_07
+		2 = siberian_siberian_08
+		2 = siberian_siberian_09
+		2 = siberian_siberian_10
+		2 = siberian_siberian_11
+		2 = siberian_siberian_12
+		2 = siberian_siberian_13
+		2 = siberian_siberian_14
+		2 = siberian_siberian_15
+		2 = siberian_siberian_16
+		2 = siberian_siberian_17
+		2 = siberian_siberian_18
+		2 = siberian_siberian_19
+		2 = siberian_siberian_20
+		2 = siberian_siberian_21
+		2 = siberian_siberian_22
+		2 = siberian_siberian_23
+		2 = siberian_siberian_24
+		2 = siberian_siberian_25
+	}
+}

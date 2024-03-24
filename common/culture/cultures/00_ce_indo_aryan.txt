@@ -1,0 +1,505 @@
+﻿
+# Name is for compatibility with Dharmacakra mod
+# Localized as Peristani in-game as a catch-all for "Kafirs" like the Nuristani, Kalash, Dards, and other peoples in the region of Peristan
+nuristani = {
+	color = { 0.84 0.28 0.01 }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_indo_aryan
+	language = language_nuristani
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_himalayan_settlers
+		tradition_isolationist
+		tradition_stalwart_defenders
+	}
+	
+	name_list = name_list_nuristani
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_afghan_1
+		2 = iranian_afghan_2
+		2 = iranian_afghan_3
+		2 = iranian_afghan_4
+		2 = iranian_afghan_5
+		2 = iranian_afghan_6
+		2 = iranian_afghan_7
+		2 = iranian_afghan_8
+		2 = iranian_afghan_9
+		2 = iranian_afghan_10
+		2 = iranian_afghan_11
+		2 = iranian_afghan_12
+		2 = iranian_afghan_13
+		2 = iranian_afghan_14
+		2 = iranian_afghan_15
+		2 = iranian_afghan_16
+		2 = iranian_afghan_17
+		2 = iranian_afghan_18
+		2 = iranian_afghan_19
+		2 = iranian_afghan_20
+		2 = iranian_afghan_21
+		2 = iranian_afghan_22
+		2 = iranian_afghan_23
+		2 = iranian_afghan_24
+		2 = iranian_afghan_25
+		2 = iranian_afghan_26
+		2 = iranian_afghan_27
+		2 = iranian_afghan_28
+		2 = iranian_afghan_29
+		2 = iranian_afghan_30
+		2 = iranian_afghan_31
+		2 = iranian_afghan_32
+		2 = iranian_afghan_33
+		2 = iranian_afghan_34
+		2 = iranian_afghan_35
+		2 = iranian_afghan_36
+		2 = iranian_afghan_37
+		2 = iranian_afghan_38
+		2 = iranian_afghan_39
+		2 = iranian_afghan_40
+		2 = iranian_afghan_41
+		2 = iranian_afghan_42
+		2 = iranian_afghan_43
+		2 = iranian_afghan_44
+		2 = iranian_afghan_45
+		2 = iranian_afghan_46
+		2 = iranian_afghan_47
+		2 = iranian_afghan_48
+		2 = iranian_afghan_49
+		2 = iranian_afghan_50
+		3 = indian_kashmiri_1
+		3 = indian_kashmiri_2
+		3 = indian_kashmiri_3
+		3 = indian_kashmiri_4
+		3 = indian_kashmiri_5
+		3 = indian_kashmiri_6
+		3 = indian_kashmiri_7
+		3 = indian_kashmiri_8
+		3 = indian_kashmiri_9
+		3 = indian_kashmiri_10
+		3 = indian_kashmiri_11
+		3 = indian_kashmiri_12
+		3 = indian_kashmiri_13
+		3 = indian_kashmiri_14
+		3 = indian_kashmiri_15
+		3 = indian_kashmiri_16
+		3 = indian_kashmiri_17
+		3 = indian_kashmiri_18
+		3 = indian_kashmiri_19
+		3 = indian_kashmiri_20
+		3 = indian_kashmiri_21
+		3 = indian_kashmiri_22
+		3 = indian_kashmiri_23
+	}
+}
+
+makrani = { # Meds / Medhs / Meids
+	color = { 0.88 0.33 0.12 }
+	
+	ethos = ethos_communal
+	heritage = heritage_indo_aryan
+	language = language_vrachada
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_isolationist
+		tradition_fishermen
+		tradition_desert_nomads
+	}
+	
+	dlc_tradition = {
+		trait = tradition_fp3_jirga
+		requires_dlc_flag = legacy_of_persia
+	}
+	
+	name_list = name_list_baloch
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_afghan_1
+		2 = iranian_afghan_2
+		2 = iranian_afghan_3
+		2 = iranian_afghan_4
+		2 = iranian_afghan_5
+		2 = iranian_afghan_6
+		2 = iranian_afghan_7
+		2 = iranian_afghan_8
+		2 = iranian_afghan_9
+		2 = iranian_afghan_10
+		2 = iranian_afghan_11
+		2 = iranian_afghan_12
+		2 = iranian_afghan_13
+		2 = iranian_afghan_14
+		2 = iranian_afghan_15
+		2 = iranian_afghan_16
+		2 = iranian_afghan_17
+		2 = iranian_afghan_18
+		2 = iranian_afghan_19
+		2 = iranian_afghan_20
+		2 = iranian_afghan_21
+		2 = iranian_afghan_22
+		2 = iranian_afghan_23
+		2 = iranian_afghan_24
+		2 = iranian_afghan_25
+		2 = iranian_afghan_26
+		2 = iranian_afghan_27
+		2 = iranian_afghan_28
+		2 = iranian_afghan_29
+		2 = iranian_afghan_30
+		2 = iranian_afghan_31
+		2 = iranian_afghan_32
+		2 = iranian_afghan_33
+		2 = iranian_afghan_34
+		2 = iranian_afghan_35
+		2 = iranian_afghan_36
+		2 = iranian_afghan_37
+		2 = iranian_afghan_38
+		2 = iranian_afghan_39
+		2 = iranian_afghan_40
+		2 = iranian_afghan_41
+		2 = iranian_afghan_42
+		2 = iranian_afghan_43
+		2 = iranian_afghan_44
+		2 = iranian_afghan_45
+		2 = iranian_afghan_46
+		2 = iranian_afghan_47
+		2 = iranian_afghan_48
+		2 = iranian_afghan_49
+		2 = iranian_afghan_50
+		3 = indian_kashmiri_1
+		3 = indian_kashmiri_2
+		3 = indian_kashmiri_3
+		3 = indian_kashmiri_4
+		3 = indian_kashmiri_5
+		3 = indian_kashmiri_6
+		3 = indian_kashmiri_7
+		3 = indian_kashmiri_8
+		3 = indian_kashmiri_9
+		3 = indian_kashmiri_10
+		3 = indian_kashmiri_11
+		3 = indian_kashmiri_12
+		3 = indian_kashmiri_13
+		3 = indian_kashmiri_14
+		3 = indian_kashmiri_15
+		3 = indian_kashmiri_16
+		3 = indian_kashmiri_17
+		3 = indian_kashmiri_18
+		3 = indian_kashmiri_19
+		3 = indian_kashmiri_20
+		3 = indian_kashmiri_21
+		3 = indian_kashmiri_22
+		3 = indian_kashmiri_23
+	}
+}
+
+jat = { # Pastoralists of Lower Sindh ## credits to soraya
+	color = { 1.0 0.6 0.0 }
+	
+	ethos = ethos_communal
+	heritage = heritage_indo_aryan
+	language = language_vrachada
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_pastoralists # This was their main occupation in the first half of CK3's time period.
+		tradition_dryland_dwellers # Jats were considered skilled dromedary-men, and were involved in a camel trade that spanned the Eastern Islamic World.
+		tradition_warrior_culture # Jats served as mercenaries and had a reputation for being rebellious and hard to conquer.
+		tradition_practiced_pirates # They were known to raid settlements and caravans. This culture also represent Meds, who ran pirate operations from Basra to Dwarka. 
+	}
+
+	name_list = name_list_jat
+
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_afghan_1
+		2 = iranian_afghan_2
+		2 = iranian_afghan_3
+		2 = iranian_afghan_4
+		2 = iranian_afghan_5
+		2 = iranian_afghan_6
+		2 = iranian_afghan_7
+		2 = iranian_afghan_8
+		2 = iranian_afghan_9
+		2 = iranian_afghan_10
+		2 = iranian_afghan_11
+		2 = iranian_afghan_12
+		2 = iranian_afghan_13
+		2 = iranian_afghan_14
+		2 = iranian_afghan_15
+		2 = iranian_afghan_16
+		2 = iranian_afghan_17
+		2 = iranian_afghan_18
+		2 = iranian_afghan_19
+		2 = iranian_afghan_20
+		2 = iranian_afghan_21
+		2 = iranian_afghan_22
+		2 = iranian_afghan_23
+		2 = iranian_afghan_24
+		2 = iranian_afghan_25
+		2 = iranian_afghan_26
+		2 = iranian_afghan_27
+		2 = iranian_afghan_28
+		2 = iranian_afghan_29
+		2 = iranian_afghan_30
+		2 = iranian_afghan_31
+		2 = iranian_afghan_32
+		2 = iranian_afghan_33
+		2 = iranian_afghan_34
+		2 = iranian_afghan_35
+		2 = iranian_afghan_36
+		2 = iranian_afghan_37
+		2 = iranian_afghan_38
+		2 = iranian_afghan_39
+		2 = iranian_afghan_40
+		2 = iranian_afghan_41
+		2 = iranian_afghan_42
+		2 = iranian_afghan_43
+		2 = iranian_afghan_44
+		2 = iranian_afghan_45
+		2 = iranian_afghan_46
+		2 = iranian_afghan_47
+		2 = iranian_afghan_48
+		2 = iranian_afghan_49
+		2 = iranian_afghan_50
+		3 = indian_kashmiri_1
+		3 = indian_kashmiri_2
+		3 = indian_kashmiri_3
+		3 = indian_kashmiri_4
+		3 = indian_kashmiri_5
+		3 = indian_kashmiri_6
+		3 = indian_kashmiri_7
+		3 = indian_kashmiri_8
+		3 = indian_kashmiri_9
+		3 = indian_kashmiri_10
+		3 = indian_kashmiri_11
+		3 = indian_kashmiri_12
+		3 = indian_kashmiri_13
+		3 = indian_kashmiri_14
+		3 = indian_kashmiri_15
+		3 = indian_kashmiri_16
+		3 = indian_kashmiri_17
+		3 = indian_kashmiri_18
+		3 = indian_kashmiri_19
+		3 = indian_kashmiri_20
+		3 = indian_kashmiri_21
+		3 = indian_kashmiri_22
+		3 = indian_kashmiri_23
+	}
+}
+
+kaikani = { # Jat culture of Kaikan/ al-Qiqan
+	color = { 0.87 0.32 0.11 }
+	
+	created = 866.1.1
+	parents = { jat }
+	
+	history_loc_override = kaikanian_history_loc
+	
+	ethos = ethos_communal
+	heritage = heritage_indo_aryan
+	language = language_vrachada
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_mountain_homes
+		tradition_warrior_culture 
+		tradition_pastoralists
+		tradition_qiqaniyya
+	}
+	
+	name_list = name_list_jat
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_afghan_1
+		2 = iranian_afghan_2
+		2 = iranian_afghan_3
+		2 = iranian_afghan_4
+		2 = iranian_afghan_5
+		2 = iranian_afghan_6
+		2 = iranian_afghan_7
+		2 = iranian_afghan_8
+		2 = iranian_afghan_9
+		2 = iranian_afghan_10
+		2 = iranian_afghan_11
+		2 = iranian_afghan_12
+		2 = iranian_afghan_13
+		2 = iranian_afghan_14
+		2 = iranian_afghan_15
+		2 = iranian_afghan_16
+		2 = iranian_afghan_17
+		2 = iranian_afghan_18
+		2 = iranian_afghan_19
+		2 = iranian_afghan_20
+		2 = iranian_afghan_21
+		2 = iranian_afghan_22
+		2 = iranian_afghan_23
+		2 = iranian_afghan_24
+		2 = iranian_afghan_25
+		2 = iranian_afghan_26
+		2 = iranian_afghan_27
+		2 = iranian_afghan_28
+		2 = iranian_afghan_29
+		2 = iranian_afghan_30
+		2 = iranian_afghan_31
+		2 = iranian_afghan_32
+		2 = iranian_afghan_33
+		2 = iranian_afghan_34
+		2 = iranian_afghan_35
+		2 = iranian_afghan_36
+		2 = iranian_afghan_37
+		2 = iranian_afghan_38
+		2 = iranian_afghan_39
+		2 = iranian_afghan_40
+		2 = iranian_afghan_41
+		2 = iranian_afghan_42
+		2 = iranian_afghan_43
+		2 = iranian_afghan_44
+		2 = iranian_afghan_45
+		2 = iranian_afghan_46
+		2 = iranian_afghan_47
+		2 = iranian_afghan_48
+		2 = iranian_afghan_49
+		2 = iranian_afghan_50
+		3 = indian_kashmiri_1
+		3 = indian_kashmiri_2
+		3 = indian_kashmiri_3
+		3 = indian_kashmiri_4
+		3 = indian_kashmiri_5
+		3 = indian_kashmiri_6
+		3 = indian_kashmiri_7
+		3 = indian_kashmiri_8
+		3 = indian_kashmiri_9
+		3 = indian_kashmiri_10
+		3 = indian_kashmiri_11
+		3 = indian_kashmiri_12
+		3 = indian_kashmiri_13
+		3 = indian_kashmiri_14
+		3 = indian_kashmiri_15
+		3 = indian_kashmiri_16
+		3 = indian_kashmiri_17
+		3 = indian_kashmiri_18
+		3 = indian_kashmiri_19
+		3 = indian_kashmiri_20
+		3 = indian_kashmiri_21
+		3 = indian_kashmiri_22
+		3 = indian_kashmiri_23
+	}
+}
+
+zutt = { # Jat culture of Iraq
+	color = { 65 82 173 }
+	
+	created = 866.1.1
+	parents = { jat }
+	
+	history_loc_override = zutt_history_loc
+	
+	ethos = ethos_communal
+	heritage = heritage_indo_aryan
+	language = language_arabic
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_wetlanders
+		tradition_swords_for_hire
+		tradition_warrior_culture 
+		tradition_qiqaniyya
+	}
+	
+	name_list = name_list_jat
+	
+	coa_gfx = { indo_aryan_group_coa_gfx }
+	building_gfx = { indian_building_gfx }
+	clothing_gfx = { indian_clothing_gfx }
+	unit_gfx = { indian_unit_gfx }
+	
+	ethnicities = {
+		2 = iranian_afghan_1
+		2 = iranian_afghan_2
+		2 = iranian_afghan_3
+		2 = iranian_afghan_4
+		2 = iranian_afghan_5
+		2 = iranian_afghan_6
+		2 = iranian_afghan_7
+		2 = iranian_afghan_8
+		2 = iranian_afghan_9
+		2 = iranian_afghan_10
+		2 = iranian_afghan_11
+		2 = iranian_afghan_12
+		2 = iranian_afghan_13
+		2 = iranian_afghan_14
+		2 = iranian_afghan_15
+		2 = iranian_afghan_16
+		2 = iranian_afghan_17
+		2 = iranian_afghan_18
+		2 = iranian_afghan_19
+		2 = iranian_afghan_20
+		2 = iranian_afghan_21
+		2 = iranian_afghan_22
+		2 = iranian_afghan_23
+		2 = iranian_afghan_24
+		2 = iranian_afghan_25
+		2 = iranian_afghan_26
+		2 = iranian_afghan_27
+		2 = iranian_afghan_28
+		2 = iranian_afghan_29
+		2 = iranian_afghan_30
+		2 = iranian_afghan_31
+		2 = iranian_afghan_32
+		2 = iranian_afghan_33
+		2 = iranian_afghan_34
+		2 = iranian_afghan_35
+		2 = iranian_afghan_36
+		2 = iranian_afghan_37
+		2 = iranian_afghan_38
+		2 = iranian_afghan_39
+		2 = iranian_afghan_40
+		2 = iranian_afghan_41
+		2 = iranian_afghan_42
+		2 = iranian_afghan_43
+		2 = iranian_afghan_44
+		2 = iranian_afghan_45
+		2 = iranian_afghan_46
+		2 = iranian_afghan_47
+		2 = iranian_afghan_48
+		2 = iranian_afghan_49
+		2 = iranian_afghan_50
+		3 = indian_kashmiri_1
+		3 = indian_kashmiri_2
+		3 = indian_kashmiri_3
+		3 = indian_kashmiri_4
+		3 = indian_kashmiri_5
+		3 = indian_kashmiri_6
+		3 = indian_kashmiri_7
+		3 = indian_kashmiri_8
+		3 = indian_kashmiri_9
+		3 = indian_kashmiri_10
+		3 = indian_kashmiri_11
+		3 = indian_kashmiri_12
+		3 = indian_kashmiri_13
+		3 = indian_kashmiri_14
+		3 = indian_kashmiri_15
+		3 = indian_kashmiri_16
+		3 = indian_kashmiri_17
+		3 = indian_kashmiri_18
+		3 = indian_kashmiri_19
+		3 = indian_kashmiri_20
+		3 = indian_kashmiri_21
+		3 = indian_kashmiri_22
+		3 = indian_kashmiri_23
+	}
+}
